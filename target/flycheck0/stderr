@@ -1,0 +1,234 @@
+   0.036033300s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="infinite_arrays"}: cargo::core::compiler::fingerprint: fingerprint error for infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75))/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("infinite_arrays", ["lib"], "C:\\Users\\Huzefa Aziz\\Desktop\\New folder (75)\\src\\lib.rs", Edition2021) }
+   0.036133700s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="infinite_arrays"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\infinite-arrays-2e86e9c41cc80943\lib-infinite_arrays`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.056187600s  INFO prepare_target{force=false package_id=num-iter v0.1.45 target="num_iter"}: cargo::core::compiler::fingerprint: fingerprint error for num-iter v0.1.45/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_iter", ["lib"], "C:\\Users\\Huzefa Aziz\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\num-iter-0.1.45\\src\\lib.rs", Edition2018) }
+   0.056234300s  INFO prepare_target{force=false package_id=num-iter v0.1.45 target="num_iter"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\num-iter-e15690eb37775e25\lib-num_iter`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.056989300s  INFO prepare_target{force=false package_id=num-integer v0.1.46 target="num_integer"}: cargo::core::compiler::fingerprint: fingerprint error for num-integer v0.1.46/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_integer", ["lib"], "C:\\Users\\Huzefa Aziz\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\num-integer-0.1.46\\src\\lib.rs", Edition2018) }
+   0.057030500s  INFO prepare_target{force=false package_id=num-integer v0.1.46 target="num_integer"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\num-integer-2998cb1bf81dde0f\lib-num_integer`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.057685400s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint: fingerprint error for num-traits v0.2.19/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_traits", ["lib"], "C:\\Users\\Huzefa Aziz\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\num-traits-0.2.19\\src\\lib.rs", Edition2021) }
+   0.057729000s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\num-traits-b039f2342066fe0a\lib-num_traits`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.059563800s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for num-traits v0.2.19/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Huzefa Aziz\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\num-traits-0.2.19\\build.rs", Edition2021) }
+   0.059620500s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\num-traits-1ee78c0b2dfa0b30\run-build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_repo
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.060032000s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for num-traits v0.2.19/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Huzefa Aziz\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\num-traits-0.2.19\\build.rs", Edition2021) }
+   0.060066100s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\num-traits-882f1fd15ed6aa3c\build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_path
+  11: git_filter_source_path
+  12: git_filter_source_path
+  13: git_filter_source_path
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.061694700s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="infinite_arrays"}: cargo::core::compiler::fingerprint: fingerprint error for infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75))/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("infinite_arrays", ["lib"], "C:\\Users\\Huzefa Aziz\\Desktop\\New folder (75)\\src\\lib.rs", Edition2021) }
+   0.061744000s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="infinite_arrays"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\infinite-arrays-d8cf82bc6339b4d5\test-lib-infinite_arrays`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.062437100s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="basic"}: cargo::core::compiler::fingerprint: fingerprint error for infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75))/Check { test: false }/TargetInner { kind: "example", name: "basic", tested: false, benched: false, ..: with_path("C:\\Users\\Huzefa Aziz\\Desktop\\New folder (75)\\examples\\basic.rs", Edition2021) }
+   0.062473300s  INFO prepare_target{force=false package_id=infinite-arrays v0.1.0 (C:\Users\Huzefa Aziz\Desktop\New folder (75)) target="basic"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Huzefa Aziz\Desktop\New folder (75)\target\debug\.fingerprint\infinite-arrays-b1221105535b8cde\example-basic`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   Compiling num-traits v0.2.19
+error: could not compile `num-traits` (build script) due to 2 previous errors

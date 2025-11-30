@@ -1,0 +1,15 @@
+[package]
+name = "infinite-arrays"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A Rust crate for representing arrays with infinite dimension sizes"
+license = "MIT"
+repository = "https://github.com/yourusername/infinite-arrays"
+keywords = ["arrays", "infinite", "lazy", "mathematics"]
+categories = ["data-structures", "algorithms", "science"]
+
+[dependencies]
+num-traits = "0.2"
+num-iter = "0.1"
+
